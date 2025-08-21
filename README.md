@@ -1,4 +1,4 @@
-# 🎙️ FOSS Podcast Editor
+# 🎙️ FOSS Podcast Enhancer and Editor
 
 **A free and open-source desktop app for podcasters.**  
 Drag-and-drop multi-track editing, one-click AI-powered audio enhancement, and cross-platform builds — without proprietary or paid APIs.
